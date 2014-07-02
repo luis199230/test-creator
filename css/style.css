@@ -1,0 +1,66 @@
+body{
+	font-size:12px;
+	font-family: sans-serif;
+	margin: 0;
+}
+
+.wrapper{
+	width: 90%;
+	margin: 0 auto;
+}
+
+#nexamen,#npreguntasc,#npreguntass{
+	margin: 10px;
+}
+
+#nexamen{
+	text-transform: uppercase;
+}
+
+#header,#content,#footer{
+	border: 1px solid;
+	margin: 10px;
+	width: 90%;
+	float: left;
+}
+
+.question{
+	background: #c0c0c0;
+	margin-bottom: 10px;
+}
+
+.exam,.preguntas,.save{
+	padding: 0 20px;
+}
+#header,#footer{
+	text-align: center;
+}
+
+#exito{
+	border: 1px solid #1F7927;
+	background: #B4D1B6;
+	border-radius:15px;
+	padding: 10px
+}
+
+#login{
+	border: 1px dotted;
+	margin: 10% auto 0 auto;
+	width: 240px;
+	padding: 10px;
+}
+
+#timer{
+	margin-top: -62px;
+	float: right;
+	border: 1px dotted;
+	border-radius: 50px;
+}
+.preg{
+	padding: 10px;
+	background: #c0c0c0;
+	margin: 10px;
+}
+.controls{
+	margin: 10px;
+}
